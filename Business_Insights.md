@@ -1,5 +1,7 @@
 # Business Insights
 
+## Day 28 — Advanced SQL Business Findings
+
 ## Key Findings
 
 -   Total revenue: **₹1,072,000**
