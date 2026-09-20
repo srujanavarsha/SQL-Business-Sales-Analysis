@@ -1,3 +1,8 @@
+-- ============================================
+-- DAY 28 — SQL PROJECT CHECKPOINT
+-- 25 BUSINESS ANALYSIS QUERIES
+-- ============================================
+
 CREATE TABLE Sales_analysis(
 	Order_ID VARCHAR(10) PRIMARY KEY ,
     Order_Date DATE,
