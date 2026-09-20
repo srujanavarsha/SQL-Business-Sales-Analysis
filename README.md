@@ -47,10 +47,21 @@ areas, and opportunities for action.
     opportunities.
 
 ## SQL Skills Demonstrated
-
-`SELECT` · `WHERE` · `AND` · `ORDER BY` · `LIMIT` · `COUNT()` · `SUM()`
-· `AVG()` · `MIN()` · `MAX()` · `GROUP BY` · `HAVING` · `CASE WHEN`
-
+SELECT, WHERE, ORDER BY, LIMIT
+- COUNT, SUM, AVG, MIN, MAX
+- GROUP BY and HAVING
+- CASE WHEN
+- INNER JOIN
+- LEFT JOIN
+- Multiple-table JOINs
+- Date functions
+- Subqueries
+- ROW_NUMBER()
+- RANK()
+- SUM() OVER()
+- Business KPI analysis
+- Business findings and recommendations
+`
 ## Project Files
 
 -   `Sales_Analysis.sql` --- table definition and analysis queries
